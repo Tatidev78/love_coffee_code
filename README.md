@@ -119,4 +119,4 @@ Some ideas for future versions include:
 Front-end Developer passionate about creating responsive, modern, and user-friendly web experiences.
 
 - GitHub: https://github.com/Tatidev78
-- LinkedIn: *(add your LinkedIn profile here)*
+- LinkedIn:(https://www.linkedin.com/in/tatiana-coimbra-dev/)
